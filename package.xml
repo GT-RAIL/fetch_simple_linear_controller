@@ -1,6 +1,6 @@
 <package>
   <name>fetch_simple_linear_controller</name>
-  <version>0.0.0</version>
+  <version>0.0.1</version>
   <description>
     Position feedback controller for simple linear motion of the fetch robot's end-effector.
   </description>
