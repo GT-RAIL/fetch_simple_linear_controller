@@ -1,0 +1,12 @@
+Source: ros-melodic-fetch-simple-linear-controller
+Section: misc
+Priority: extra
+Maintainer: David Kent <dekent@gatech.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-actionlib, ros-melodic-catkin, ros-melodic-control-msgs, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-tf2, ros-melodic-tf2-geometry-msgs, ros-melodic-tf2-ros
+Homepage: http://ros.org/wiki/fetch_simple_linear_controller
+Standards-Version: 3.9.2
+
+Package: ros-melodic-fetch-simple-linear-controller
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-actionlib, ros-melodic-control-msgs, ros-melodic-geometry-msgs, ros-melodic-message-runtime, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-tf2, ros-melodic-tf2-geometry-msgs, ros-melodic-tf2-ros
+Description: Position feedback controller for simple linear motion of the fetch robot's end-effector.

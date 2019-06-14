@@ -1,0 +1,9 @@
+ros-melodic-fetch-simple-linear-controller (0.0.1-1bionic) bionic; urgency=high
+
+  * Generalized code from the FetchIt challenge
+  * Initial commit
+  * Contributors: David Kent
+
+ -- David Kent <dekent@gatech.edu>  Fri, 14 Jun 2019 04:00:00 -0000
+
+
